@@ -1,0 +1,837 @@
+{
+  "num_queries": 8,
+  "avg_retrieval_time": 0.039380788803100586,
+  "avg_generation_time": 23.90117111802101,
+  "avg_total_time": 23.940551906824112,
+  "avg_relevance_score": 1.0769194975495338,
+  "avg_diversity_score": 0.5178399538510561,
+  "avg_citation_coverage": 0.6,
+  "avg_overall_score": 0.3101927707877821,
+  "modality_accuracy": 0.75,
+  "detailed_results": [
+    {
+      "query": "What is the GDP growth rate mentioned in the document?",
+      "test_type": "factual",
+      "complexity": "simple",
+      "retrieval": {
+        "retrieval_time": 0.07042551040649414,
+        "num_results": 5,
+        "modality_distribution": {
+          "text": 1,
+          "table": 3,
+          "image": 1
+        },
+        "diversity_score": 0.9502705392332347,
+        "avg_relevance": 1.0736618995666505,
+        "results": [
+          {
+            "chunk": {
+              "content": "Growth normalization after the 2022 FIFA World Cup continued, with signs of strengthening \nactivities more recently. Real GDP growth is projected to improve gradually to 2 percent in \n2024–25 supported by public investment, spillovers from the ongoing LNG expansion project, \nand strong tourism. Medium-term growth is expected to accelerate to 4¾ percent on average, \nboosted by the significant LNG production expansion and initial gains from implementing \nreforms guided by the Third National Development Strategy (NDS3). Headline inflation will \nlikely ease to 1 percent in 2024 and converge to around 2 percent over the medium term.",
+              "page": 2,
+              "type": "table",
+              "source": "Table 1 on Page 2"
+            },
+            "score": 0.9374871253967285,
+            "rank": 1
+          },
+          {
+            "chunk": {
+              "content": "(Quota: 735.1 million SDRs, November 2024)\n(Per capita income: US.$69,541, 2023)\n(Life expectancy at birth: 81.6 years, 2022)\n\n(Population: 3.1 million, 2023)\n\nProjections\n2021 202220232024 2025,\nProduction and prices (percent change)\n\nReal GDP (2018 prices) 16 42 12 Ww 24\nHydrocarbon 1/ -03 Ww 14 14 30\nNonhydrocarbon 28 57 uw 19 2a\n\n(Pl inflation (average) 23 50 30 10 14\n\nPublic finances (percent of GDP)\n\nRevenue 296 47328628\n\nExpenditure 294 243735962\nCurrent 18300-15675 172,178\nCapital ma 88 97 a7 a7\n\nCentral government fiscal balance 02104 56 03 25\n\nMoney (percent change)\nBroad money 14174 if 4a 56\nCredit to private sector 95 74 49 55 61\nExternal sector (percent of GDP unless otherwise noted)\n\nExports 587 686.604 S87\n\nImports 3413163393384 35.1\n\nCurrent account balance 1460268 18HCSS\ninbillions of US. dollars 2630631365370 352.\n\nExternal debt i455 12821811168\n\nCentral Bank's reserves 235 0-201 42S\nin months of next year's imports 66 ted aa 80 79\n\nExchange rate (per US. dollar) 2/ 36 36 36 36 36\nReal effective exchange rate (percent change)3/-26. 65 02-08\n\nSources: Qatari authorities; and IMF staff estimates and projections.\n1V/ Includes crude oil, natural gas, propane, butane, and condensates.\n\n2/ January 6, 2025\n3/ November 2024.\n",
+              "page": 4,
+              "type": "image",
+              "source": "Image on Page 4"
+            },
+            "score": 1.0308641195297241,
+            "rank": 2
+          },
+          {
+            "chunk": {
+              "content": "6.       \nThe fiscal stance loosened moderately in 2023  (Figure 4). The overall fiscal surplus \nnarrowed to 5.6 percent of GDP in 2023 and declined further in the first three quarters of 2024 as \nhydrocarbon revenues weakened. The 2023 central government spending rose by 3 percentage",
+              "page": 11,
+              "type": "table",
+              "source": "Table 2 on Page 11"
+            },
+            "score": 1.090378999710083,
+            "rank": 3
+          },
+          {
+            "chunk": {
+              "content": "Sources: Haver and IMF staff. \n1/ Non-hydrocarbon output is regressed on current spending (L0 and L1), capital spending (L1 and L2), global output, \nand oil prices, all in real growth rates, on a 12-year rolling basis ending in the year indicated on the horizontal scale, \nusing annual data for Qatar spanning 1983–2023. Coefficients on the first and second lag of capital spending are \ndisplayed.",
+              "page": 19,
+              "type": "table",
+              "source": "Table 1 on Page 19"
+            },
+            "score": 1.146565556526184,
+            "rank": 4
+          },
+          {
+            "chunk": {
+              "content": "PR25/034 \nIMF Executive Board Concludes the 2024 Article IV \nConsultation with Qatar  \nFOR IMMEDIATE RELEASE \nWashington, DC – February 11, 2025: On January 27, 2025, the Executive Board of the \nInternational Monetary Fund (IMF) concluded the Article IV consultation1 with Qatar. \nGrowth normalization after the 2022 FIFA World Cup continued, with signs of strengthening \nactivities more recently. Real GDP growth is projected to improve gradually to 2 percent in \n2024–25 supported by public investment, spillovers from the ongoing LNG expansion project, \nand strong tourism. Medium-term growth is expected to accelerate to 4¾ percent on average, \nboosted by the significant LNG production expansion and initial gains from implementing \nreforms guided by the Third National Development Strategy (NDS3). Headline inflation will \nlikely ease to 1 percent in 2024 and converge to around 2 percent over the medium term.  \nWith lower hydrocarbon prices, both the current account and fiscal surpluses narrowed in \n2023, to 17 percent of GDP and 5½ percent of GDP, respectively. The twin surpluses \nmoderated further in 2024. Over the medium, as Qatar’s LNG production expands massively, \nboth the current and fiscal accounts will likely remain in surpluses, albeit declining as a share \nof GDP, as hydrocarbon prices are projected to fall. \nBanks are well-capitalized, liquid, and profitable, with the capital adequacy ratio of close to \n20 percent and return on equity of 14½ percent, respectively, in the third quarter of 2024. \nSince the implementation of QCB measures to reduce banks’ net short-term foreign liabilities, \nbanks’ non-resident deposits declined significantly, and banks have lengthened the average \nmaturity and diversified further the sources of foreign funding. The sector-wide NPL ratio \nremained broadly unchanged at slightly below 4 percent and the provisioning coverage ratio is \nrelatively high at above 80 percent.     \nQatar has started to implement the ambitious Third National Development Strategy (NDS3) to \nbuild a more diversified, knowledge-based and private sector-driven economy. Guided by \nNDS3, reform momentum has strengthened significantly, including to attract and retain high-\nskilled expatriate workers, foster innovation, promote public-private partnerships, and further \nimprove the business efficiency. Qatar is well positioned to leverage digitalization and AI for \nproductivity gains, and the nation’s climate agenda is advancing.  \nRisks to the outlook are broadly balanced. Main downside risks stem from the global \nheadwinds, including a sharper-than-expected global growth slowdown, increased volatility in \nglobal financial conditions and commodity prices, and further worsening of geopolitical \ntensions. The regional conflict has had limited impact on Qatar but adds further to the \ndownside risks through lower tourism and capital inflows, and more volatile hydrocarbon \n1 Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with members, usually every year. A staff \nteam visits the country, collects economic and financial information, and discusses with officials the country's economic developments \nand policies. On return to headquarters, the staff prepares a report, which forms the basis for discussion by the Executive Board.",
+              "page": 2,
+              "type": "text",
+              "source": "Page 2"
+            },
+            "score": 1.1630136966705322,
+            "rank": 5
+          }
+        ]
+      },
+      "answer": {
+        "generation_time": 4.367280721664429,
+        "answer_length": 9,
+        "has_citations": true,
+        "num_citations": 3,
+        "citation_coverage": 0.6,
+        "query_term_coverage": 0.0,
+        "answer": "2 percent",
+        "citations": [
+          {
+            "rank": 1,
+            "source": "Table 1 on Page 2",
+            "page": 2,
+            "type": "table",
+            "relevance_score": 0.9374871253967285
+          },
+          {
+            "rank": 2,
+            "source": "Image on Page 4",
+            "page": 4,
+            "type": "image",
+            "relevance_score": 1.0308641195297241
+          },
+          {
+            "rank": 3,
+            "source": "Table 2 on Page 11",
+            "page": 11,
+            "type": "table",
+            "relevance_score": 1.090378999710083
+          }
+        ]
+      },
+      "total_time": 4.437706232070923,
+      "expected_modality_found": true,
+      "overall_score": 0.347236910910323
+    },
+    {
+      "query": "What are the key economic indicators shown in the tables?",
+      "test_type": "factual",
+      "complexity": "medium",
+      "retrieval": {
+        "retrieval_time": 0.021368026733398438,
+        "num_results": 5,
+        "modality_distribution": {
+          "text": 3,
+          "table": 2,
+          "image": 0
+        },
+        "diversity_score": 0.6730116670092565,
+        "avg_relevance": 0.9466561555862427,
+        "results": [
+          {
+            "chunk": {
+              "content": "3 \nTable 1. Qatar: Selected Macroeconomic Indicators, 2021–25",
+              "page": 4,
+              "type": "text",
+              "source": "Page 4"
+            },
+            "score": 0.7767164707183838,
+            "rank": 1
+          },
+          {
+            "chunk": {
+              "content": "TABLES \n1. Selected Macroeconomic Indicators, 2020-29 _________________________________________________ 35\n2. Balance of Payments, 2020-29 _________________________________________________________________ 36\n3a. Summary of Central Government Finance, 2020-29 (Billions of Qatari Riyals) ________________ 37\n3b. Summary of Central Government Finance, 2020-29 ( Percent of GDP) _______________________ 38\n4. Monetary Survey, 2020-29 ____________________________________________________________________ 39\n5. Financial Soundness Indicators, 2017-24Q3 ___________________________________________________ 40",
+              "page": 6,
+              "type": "table",
+              "source": "Table 3 on Page 6"
+            },
+            "score": 0.9465270042419434,
+            "rank": 2
+          },
+          {
+            "chunk": {
+              "content": "QATAR \n38 \nINTERNATIONAL MONETARY FUND \nTable 3b. Qatar: Summary of Central Government Finance, 2020-29 \n(Percent of GDP unless otherwise noted) \n2020\n2021\n2022\n2023\n2024\n2025\n2026\n2027\n2028\n2029\nRevenue \n32.6\n29.6\n34.7\n32.8\n26.2\n28.7\n30.2\n28.9\n28.2\n28.5\nOil\n6.1\n8.4\n6.7\n5.0\n4.1\n3.7\n3.4\n3.1\n3.0\n3.0\nLNG\n6.8\n8.9\n13.7\n11.4\n9.9\n13.5\n14.5\n13.9\n13.3\n13.7\nInvestment income from public enterprises 1/\n12.5\n6.5\n8.6\n9.7\n6.8\n6.2\n6.3\n5.9\n5.7\n5.7\nCorporate tax revenue 1/\n4.5\n3.2\n3.3\n4.5\n3.5\n3.4\n4.1\n4.1\n4.4\n4.4\nOther revenue 1/\n2.7\n2.5\n2.5\n2.2\n2.0\n2.0\n1.9\n1.8\n1.8\n1.7\nExpenditure \n34.7\n29.4\n24.3\n27.3\n25.9\n26.2\n25.5\n24.1\n23.9\n23.9\nExpense\n22.0\n18.3\n15.6\n17.5\n17.2\n17.5\n17.1\n16.3\n16.1\n16.2\nCompensation of employees\n11.0\n9.0\n7.3\n8.4\n8.5\n8.8\n8.7\n8.5\n8.5\n8.7\nGoods and services \n3.4\n2.9\n2.3\n2.7\n2.7\n2.8\n2.7\n2.5\n2.5\n2.5\nInterest payments\n2.3\n1.8\n1.4\n1.4\n1.3\n1.2\n1.2\n1.1\n1.1\n1.1\nOther expense\n5.3\n4.7\n4.5\n5.0\n4.7\n4.7\n4.5\n4.1\n4.0\n3.9\nNet acquisition of nonfinancial assets \n12.7\n11.1\n8.8\n9.7\n8.7\n8.7\n8.4\n7.9\n7.8\n7.7\nGross operating balance\n10.5\n11.3\n19.2\n15.3\n9.0\n11.2\n13.1\n12.6\n12.1\n12.3\nNet lending (+)/borrowing (-) \n-2.1\n0.2\n10.4\n5.6\n0.3\n2.5\n4.7\n4.7\n4.4\n4.6\nFinancing\nDomestic financing (net)\n-0.6\n0.2\n-2.7\n0.4\n1.6\n0.4\n0.6\n0.5\n0.5\n0.5\nBank loans\n0.6\n0.8\n-3.1\n-1.3\n1.3\n0.0\n0.0\n0.0\n0.0\n0.0\nDomestic securities\n-1.1\n3.0\n1.5\n0.4\n0.3\n0.4\n0.6\n0.5\n0.5\n0.5\nDomestic deposits\n-0.1\n-3.6\n-1.1\n1.3\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\nForeign borrowing\n0.6\n-1.4\n-2.0\n-3.2\n-1.0\n-0.5\n0.5\n0.5\n0.5\n0.4\nOther 2/\n2.1\n1.0\n-5.8\n-2.8\n-0.9\n-2.4\n-5.8\n-5.7\n-5.3\n-5.6\ny\nNon-hydrocarbon primary fiscal balance 3/\n-35.4\n-34.6\n-31.9\n-33.5\n-32.7\n-32.2\n-30.9\n-30.2\n-29.7\n-29.3\nMemorandum items:\nTotal debt \n72.6\n58.4\n42.6\n43.7\n40.5\n39.6\n38.3\n36.3\n35.8\n35.7\nExternal debt\n43.5\n33.6\n23.7\n23.0\n20.9\n20.0\n19.3\n18.3\n18.0\n17.9\nDomestic debt  \n29.1\n24.8\n18.9\n20.7\n19.6\n19.6\n19.0\n18.0\n17.8\n17.8\nTotal net debt\n58.3\n43.3\n30.0\n31.0\n28.4\n27.8\n27.2\n26.1\n25.9\n26.2\no/w  net domestic debt 4/\n14.8\n9.7\n6.3\n8.0\n7.5\n7.8\n7.9\n7.8\n8.0\n8.3\nPrimary fiscal balance\n0.2\n2.0\n11.7\n7.0\n1.6\n3.7\n5.9\n5.8\n5.4\n5.7\nTotal hydrocarbon revenue 5/\n24.9\n23.9\n29.5\n27.3\n21.6\n24.4\n25.7\n24.8\n24.2\n24.6\nNon-hydrocarbon tax revenues 3/\n2.7\n1.9\n1.9\n1.9\n1.9\n1.9\n2.7\n2.7\n2.8\n2.8\n1/ From both hydrocarbon and non-hydrocarbon sources.\n3/ Excludes investment income and corporate income tax from hydrocarbon activities.\n4/ Net of government domestic deposits.\n5/ Includes investment income and corporate income tax from hydrocarbon activities.\n2/ Accumulation of foreign assets by the government.\nSources: Ministry of Finance, and IMF staff.\nProjections",
+              "page": 42,
+              "type": "text",
+              "source": "Page 42"
+            },
+            "score": 0.990140438079834,
+            "rank": 3
+          },
+          {
+            "chunk": {
+              "content": "Sources: Global Economic Diversification Index, Haver Analytics, Penn World Table (PWT), and IMF staff calculations.  \n1/ The index reflects output, fiscal revenue and export diversification. \n2/ Capital services at constant 2017 national prices from PWT.",
+              "page": 8,
+              "type": "table",
+              "source": "Table 2 on Page 8"
+            },
+            "score": 1.0055981874465942,
+            "rank": 4
+          },
+          {
+            "chunk": {
+              "content": "QATAR \n40 \nINTERNATIONAL MONETARY FUND \nTable 5. Qatar: Financial Soundness Indicators, 2017–24Q3",
+              "page": 44,
+              "type": "text",
+              "source": "Page 44"
+            },
+            "score": 1.014298677444458,
+            "rank": 5
+          }
+        ]
+      },
+      "answer": {
+        "generation_time": 2.42486834526062,
+        "answer_length": 42,
+        "has_citations": true,
+        "num_citations": 3,
+        "citation_coverage": 0.6,
+        "query_term_coverage": 0.0,
+        "answer": "Selected Macroeconomic Indicators, 2021–25",
+        "citations": [
+          {
+            "rank": 1,
+            "source": "Page 4",
+            "page": 4,
+            "type": "text",
+            "relevance_score": 0.7767164707183838
+          },
+          {
+            "rank": 2,
+            "source": "Table 3 on Page 6",
+            "page": 6,
+            "type": "table",
+            "relevance_score": 0.9465270042419434
+          },
+          {
+            "rank": 3,
+            "source": "Page 42",
+            "page": 42,
+            "type": "text",
+            "relevance_score": 0.990140438079834
+          }
+        ]
+      },
+      "total_time": 2.4462363719940186,
+      "expected_modality_found": true,
+      "overall_score": 0.31570085136851295
+    },
+    {
+      "query": "Describe the trends shown in the charts or graphs.",
+      "test_type": "analytical",
+      "complexity": "medium",
+      "retrieval": {
+        "retrieval_time": 0.029677867889404297,
+        "num_results": 5,
+        "modality_distribution": {
+          "text": 2,
+          "table": 3,
+          "image": 0
+        },
+        "diversity_score": 0.6730116670092565,
+        "avg_relevance": 1.450932765007019,
+        "results": [
+          {
+            "chunk": {
+              "content": "2/ The comparison group is emerging markets, commodity exporter, surveillance.\n3/ The signal is low risk if the DFI is below 1.13; high risk if the DFI is above 2.08; and otherwise, it is moderate risk.\n4/ The signal is low risk if the GFI is below 7.6; high risk if the DFI is above 17.9; and otherwise, it is moderate risk.\n5/ The signal is low risk if the GFI is below 0.26; high risk if the DFI is above 0.40; and otherwise, it is moderate risk.",
+              "page": 62,
+              "type": "table",
+              "source": "Table 1 on Page 62"
+            },
+            "score": 1.4127706289291382,
+            "rank": 1
+          },
+          {
+            "chunk": {
+              "content": "3 \nTable 1. Qatar: Selected Macroeconomic Indicators, 2021–25",
+              "page": 4,
+              "type": "text",
+              "source": "Page 4"
+            },
+            "score": 1.4415719509124756,
+            "rank": 2
+          },
+          {
+            "chunk": {
+              "content": "Sources: Haver and IMF staff. \n1/ Non-hydrocarbon output is regressed on current spending (L0 and L1), capital spending (L1 and L2), global output, \nand oil prices, all in real growth rates, on a 12-year rolling basis ending in the year indicated on the horizontal scale, \nusing annual data for Qatar spanning 1983–2023. Coefficients on the first and second lag of capital spending are \ndisplayed.",
+              "page": 19,
+              "type": "table",
+              "source": "Table 1 on Page 19"
+            },
+            "score": 1.4454340934753418,
+            "rank": 3
+          },
+          {
+            "chunk": {
+              "content": "QATAR \n66 \nINTERNATIONAL MONETARY FUND \nAnnex VII. Data Issues \nTable VII. 1. Qatar: Data Adequacy Assessment for Surveillance \nRationale for staff assessment. Data provision is broadly adequate for surveillance but with shortcomings. Data frequency, timeliness and coverage should be improved. \nNational accounts. Data sources used to compile quarterly estimates of GDP at current and constant prices need to be broadened to enhance accuracy. GDP by \nexpenditure needs to be more up to date–by component annual data lag the headline (in current prices) or are available only up to 2018 (in constant prices). For the latter, \nthe quarterly data should also provide a breakdown (only the headline number is produced). Timeliness was an issue also for GDP by activity data (2023Q4 GDP data were \nreleased in early-September 2024. 2024Q1–Q2 GDP data were released in early-December 2024 and 2024Q3 GDP data at end-December 2024).  \nPrices. Monthly Consumer and Producer Price Indices (CPI, PPI), and real estate price data are published timely. CPI weights need to be updated more frequently. The \nMinistry of Justice publishes Weekly Newsletter with daily property transaction data by type which can benefit from greater consistency to better inform surveillance.  \nGovernment finance. The authorities are implementing the Government Financial Management Information System (GFMIS) which enables compilation of accrual fiscal \naccounts. An IMF Technical Assistance (TA) mission in 2019 supported transition to the Government Finance Statistics Manual 2014. Transparency was enhanced by the \npublication of annual budget documents and quarterly budget performance reports for the central government with headline budget and debt numbers––the reports \ncould include more line items and quarterly debt numbers. The prospectus for sovereign euro bond issuance includes detailed information on revenue and expenditure line \nitems, and external bonds, but publication is infrequent. For the 2023 budget, a press release was published and, instead of the regular budget statement, the Minister \nprovided relevant information at the press conference. The format of the 2024 budget statement was similar to the 2023 budget press release. The coverage of financial \noperations should be broadened to the general government including the Qatar Investment Authority (QIA).  \nExternal sector. The Qatar Central Bank (QCB) reports quarterly balance of payments data timely, following the fifth edition of the balance of payments manual (BPM5). \nThe financial account has been developed and coverage improved for major public corporations, the Qatar Financial Center Authority, and the Qatar Stock Exchange. \nHowever, financial account data are aggregated. The authorities need to improve coordination to enhance the coverage of Foreign Direct Investment (FDI) flow data (which \ndeviate significantly from FDI commitment data). A 2017 TA mission helped develop a quarterly survey for nonfinancial sector data aimed at producing a quarterly \nInternational Investment Position (IIP) statement. However, following the TA the authorities have continued to face capacity constraints in providing comprehensive IIP data \nto the IMF. More work is needed to ensure comprehensive data coverage, collection, and granularity—efforts should strengthen to allow Qatar's participation in key \nsurveys like the Coordinated Portfolio Investment Survey (CPIS) and the Coordinated Direct Investment Survey (CDIS).  \nMonetary and financial sectors. The QCB submits the monetary and financial statistics (MFS) for the central bank and other depository corporations based on the \nStandardized Report Forms (SRFs). The MFS data are published in the International Financial Statistics on a timely basis. Qatar also reports data on some key series and \nindicators of the Financial Access Survey (FAS), including mobile money and the two indicators of the U.N. Sustainable Development Goals, but does not report data by \ngender. The QCB reports the Financial Soundness Indicators as part of the National Summary Data Page, but does not submit to the IMF, and 4 indicators are missing \nrelative to the IMF’s list of Core Financial Soundness indicators. \nChanges since the last Article IV consultation. The Planning and Statics Authority was replaced by a newly established National Planning Council to strengthen reform \nimplementation stipulated in the Third National Development Strategy, including to improve statistics. The statistics authority is in the process of producing new supply \nand use tables to improve the consistency of GDP estimates. A household survey is being finalized, which will be used to update CPI weights. The domestic “FDI ecosystem” \nhas been fully mapped to identify additional sources of input data including business registration platforms (i.e., QFC, QSTP, QFZA, Media city) which will increase survey \nframe from current 130+ entities to 2000+ entities. \nCorrective actions and capacity development priorities. Enhance awareness across government entities of the data gaps and international best practices. Implement \nrecommendations made by the above-mentioned TAs. Encourage the authorities to seek the Institute for Capacity Development (ICD) training, additional Statistics \nDepartments (STA) TAs, and participate in the workshop on the Special Data Dissemination Standard (SDDS) to be organized by the newly established Riyadh Regional \nOffice. Urge the National Planning Council and National Statistics Center to coordinate efforts across relevant government entities on statistics including consolidation of \nscattered data, submission to the IMF, and broader publication.  \nUse of data and/or estimates different from official statistics in the Article IV consultation. IIP data are unavailable, including QIA’s assets under management. Staff \nrely on different data sources as needed––it estimates external debt data (for non-bank private sector and public sector debt outside of the central government), uses \nalternative data sources for FDI, and relies on commercially available bank-level data. \nOther data gaps. A more granular forward-looking calendar of key data releases would aid surveillance and enhance transparency. By maturity assets and liabilities data \nand by sector non-performing loans (NPLs) data will enhance the assessment of banking sector risks for surveillance. Data on enterprises, particularly small and medium-\nsized enterprises (SMEs), and on climate change adaptation and mitigation would help inform surveillance.   \nNational \nAccounts\nPrices\nGovernment \nFinance \nStatistics\nExternal Sector \nStatistics\nMonetary and \nFinancial \nStatistics\nInter-sectoral \nConsistency \nMedian Rating\nB\nB\nB\nC\nB\nB\nB\nCoverage\nB\nB\nB\nC\nB\nB\nB\nC\nA\nB\nB\nConsistency\nB\nB\nB\nFrequency and Timeliness\nB\nA\nB\nA\nA\nA\nB\nC\nD\nData Quality Characteristics\nGranularity 3/\nData Adequacy Assessment Rating 1/\nB\nQuestionnaire Results 2/\nAssessment\nDetailed Questionnaire Results\nNote: When the questionnaire does not include a question on a specific dimension of data quality for a sector, the corresponding cell is blank.\n1/ The overall data adequacy assessment is based on staff's assessment of the adequacy of the country’s data for conducting analysis and formulating policy advice, and takes into consideration \ncountry-specific characteristics.\n2/ The overall questionnaire assessment and the assessments for individual sectors reported in the heatmap are based on a standardized questionnaire and scoring system (see IMF Review of the \nFramework for Data Adequacy Assessment for Surveillance, January 2024, Appendix I).\n3/ The top cell for \"Granularity\" of Government Finance Statistics shows staff's assessment of the granularity of the reported government operations data, while the bottom cell shows that of public \ndebt statistics. The top cell for \"Granularity\" of Monetary and Financial Statistics shows staff's assessment of the granularity of the reported Monetary and Financial Statistics data, while the bottom \ncell shows that of the Financial Soundness indicators.\nThe data provided to the Fund is adequate for surveillance.\nThe data provided to the Fund has some shortcomings but is broadly adequate for surveillance.\nThe data provided to the Fund has some shortcomings that somewhat hamper surveillance.\nThe data provided to the Fund has serious shortcomings that significantly hamper surveillance.",
+              "page": 70,
+              "type": "text",
+              "source": "Page 70"
+            },
+            "score": 1.4727847576141357,
+            "rank": 4
+          },
+          {
+            "chunk": {
+              "content": "TABLES \n1. Selected Macroeconomic Indicators, 2020-29 _________________________________________________ 35\n2. Balance of Payments, 2020-29 _________________________________________________________________ 36\n3a. Summary of Central Government Finance, 2020-29 (Billions of Qatari Riyals) ________________ 37\n3b. Summary of Central Government Finance, 2020-29 ( Percent of GDP) _______________________ 38\n4. Monetary Survey, 2020-29 ____________________________________________________________________ 39\n5. Financial Soundness Indicators, 2017-24Q3 ___________________________________________________ 40",
+              "page": 6,
+              "type": "table",
+              "source": "Table 3 on Page 6"
+            },
+            "score": 1.482102394104004,
+            "rank": 5
+          }
+        ]
+      },
+      "answer": {
+        "generation_time": 18.01253914833069,
+        "answer_length": 367,
+        "has_citations": true,
+        "num_citations": 3,
+        "citation_coverage": 0.6,
+        "query_term_coverage": 0.125,
+        "answer": "The signal is low risk if the GFI is below 1.13; high risk if the DFI is above 2.08; and otherwise, it is moderate risk. 4/ The signal is low risk if the GFI is below 7.6; high risk if the DFI is above 17.9; and otherwise, it is moderate risk. 5/ The signal is low risk if the GFI is below 0.26; high risk if the DFI is above 0.40; and otherwise, it is moderate risk.",
+        "citations": [
+          {
+            "rank": 1,
+            "source": "Table 1 on Page 62",
+            "page": 62,
+            "type": "table",
+            "relevance_score": 1.4127706289291382
+          },
+          {
+            "rank": 2,
+            "source": "Page 4",
+            "page": 4,
+            "type": "text",
+            "relevance_score": 1.4415719509124756
+          },
+          {
+            "rank": 3,
+            "source": "Table 1 on Page 19",
+            "page": 19,
+            "type": "table",
+            "relevance_score": 1.4454340934753418
+          }
+        ]
+      },
+      "total_time": 18.042217016220093,
+      "expected_modality_found": false,
+      "overall_score": 0.3058291496511362
+    },
+    {
+      "query": "What are the IMF recommendations for Qatar?",
+      "test_type": "factual",
+      "complexity": "simple",
+      "retrieval": {
+        "retrieval_time": 0.030397415161132812,
+        "num_results": 5,
+        "modality_distribution": {
+          "text": 5,
+          "table": 0,
+          "image": 0
+        },
+        "diversity_score": -0.0,
+        "avg_relevance": 0.7347492933273315,
+        "results": [
+          {
+            "chunk": {
+              "content": "© 2025 International Monetary Fund \nIMF Country Report No. 25/47 \nQATAR \n2024 ARTICLE IV CONSULTATION—PRESS RELEASE; \nSTAFF REPORT; AND STATEMENT BY THE EXECUTIVE \nDIRECTOR FOR QATAR \nUnder Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions \nwith members, usually every year. In the context of the 2024 Article IV consultation with \nQatar, the following documents have been released and are included in this package: \n \n• \nA Press Release summarizing the views of the Executive Board as expressed during its \nJanuary 27, 2025, consideration of the staff report that concluded the Article IV \nconsultation with Qatar. \n• \nThe Staff Report prepared by a staff team of the IMF for the Executive Board’s \nconsideration on January 27, 2025, following discussions that ended on  \nNovember 21, 2024, with the officials of Qatar on economic developments and \npolicies. Based on information available at the time of these discussions, the staff \nreport was completed on January 8, 2025. \n• \nAn Informational Annex prepared by the IMF staff. \n• \nA Statement by the Executive Director for Qatar. \nThe documents listed below will be separately released.  \nSelected Issues \n \nThe IMF’s transparency policy allows for the deletion of market-sensitive information and \npremature disclosure of the authorities’ policy intentions in published staff reports and \nother documents. \n \nCopies of this report are available to the public from \n \nInternational Monetary Fund • Publication Services \nPO Box 92780 • Washington, D.C. 20090 \nTelephone: (202) 623-7430 • Fax: (202) 623-7201 \nE-mail: publications@imf.org  Web: http://www.imf.org  \n \n \nInternational Monetary Fund \nWashington, D.C. \nFebruary 2025",
+              "page": 1,
+              "type": "text",
+              "source": "Page 1"
+            },
+            "score": 0.648252546787262,
+            "rank": 1
+          },
+          {
+            "chunk": {
+              "content": "QATAR \n \nINTERNATIONAL MONETARY FUND \n37 \n \nTable 3a. Qatar: Summary of Central Government Finance, 2020–29 \n(Billions of Qatari Riyals unless otherwise noted) \n  \n \n \n \n2020\n2021\n2022\n2023\n2024\n2025\n2026\n2027\n2028\n2029\nRevenue \n171.2\n193.7\n297.8\n254.4\n213.5\n238.2\n266.4\n275.8\n281.6\n293.2\nOil\n32.3\n55.2\n57.5\n39.0\n33.5\n30.3\n29.6\n29.6\n30.2\n30.9\nLNG\n35.5\n58.4\n117.3\n88.3\n80.2\n111.6\n127.8\n133.0\n133.0\n140.4\nInvestment income from public enterprises 1/\n65.5\n42.7\n73.7\n75.2\n55.0\n51.0\n55.3\n56.5\n57.1\n58.3\nCorporate tax revenue 1/\n23.7\n21.1\n27.9\n34.6\n28.4\n28.5\n36.4\n39.1\n43.6\n45.6\nOther revenue 1/\n14.2\n16.2\n21.4\n17.3\n16.3\n16.8\n17.2\n17.6\n17.8\n17.9\nExpenditure \n182.4\n192.1\n208.7\n211.4\n210.8\n217.4\n224.8\n230.8\n238.1\n245.7\nExpense\n115.9\n119.8\n133.4\n136.0\n139.9\n145.1\n150.9\n155.3\n160.7\n166.4\nCompensation of employees\n57.9\n58.7\n62.9\n64.9\n68.8\n72.9\n76.9\n80.9\n85.2\n89.8\nGoods and services \n17.9\n19.0\n20.1\n21.3\n22.1\n23.0\n24.0\n24.2\n24.9\n25.7\nInterest payments\n12.2\n11.6\n11.7\n11.2\n10.5\n10.2\n10.3\n10.5\n10.8\n11.2\nOther expense\n27.9\n30.6\n38.8\n38.6\n38.6\n38.8\n39.8\n39.6\n39.7\n39.8\nNet acquisition of nonfinancial assets \n66.5\n72.3\n75.3\n75.4\n70.9\n72.4\n73.9\n75.5\n77.4\n79.2\nGross operating balance\n55.3\n73.9\n164.3\n118.4\n73.5\n93.2\n115.5\n120.5\n120.9\n126.7\nNet lending (+)/borrowing (-) \n-11.2\n1.6\n89.0\n43.0\n2.6\n20.8\n41.6\n45.0\n43.5\n47.5\nFinancing\nDomestic financing (net)\n-3.1\n1.4\n-22.8\n3.1\n13.2\n3.2\n4.9\n5.0\n5.2\n5.3\nBank loans\n3.0\n5.5\n-26.2\n-9.9\n10.6\n0.0\n0.0\n0.0\n0.0\n0.0\nDomestic securities\n-5.7\n19.4\n12.9\n2.8\n2.6\n3.2\n4.9\n5.0\n5.2\n5.3\nDomestic deposits\n-0.4\n-23.5\n-9.5\n10.2\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\nForeign borrowing\n3.3\n-9.5\n-16.8\n-24.8\n-8.4\n-4.0\n4.5\n4.5\n4.5\n4.5\nOther 2/\n11.0\n6.5\n-49.4\n-21.3\n-7.4\n-20.0\n-50.9\n-54.5\n-53.2\n-57.4\nNon-hydrocarbon primary fiscal balance 3/\n-132.3\n-143.3\n-152.3\n-157.6\n-162.2\n-171.3\n-175.4\n-181.4\n-187.5\n-194.1\nMemorandum items\nTotal debt \n381.7\n382.0\n365.2\n338.6\n329.2\n328.4\n337.8\n347.3\n357.0\n366.8\nExternal\n228.9\n219.8\n203.0\n178.2\n169.8\n165.8\n170.3\n174.8\n179.3\n183.8\nDomestic\n152.8\n162.2\n162.2\n160.4\n159.4\n162.6\n167.5\n172.5\n177.7\n183.0\nTotal net debt\n306.4\n283.3\n257.0\n240.6\n231.2\n230.4\n239.8\n249.3\n259.0\n268.8\no/w net domestic debt 4/\n77.5\n63.5\n54.0\n62.4\n61.4\n64.6\n69.5\n74.5\n79.7\n85.0\nExternal debt service/total revenue (percent) \n22.8\n9.9\n8.8\n11.9\n6.2\n3.6\n1.7\n1.6\n1.7\n1.6\nTotal hydrocarbon revenue 5/\n131.0\n156.4\n253.1\n211.9\n175.4\n202.4\n227.2\n236.9\n241.9\n252.8\nas a share of total revenues (in percent)\n76.5\n80.7\n85.0\n83.3\n82.2\n85.0\n85.3\n85.9\n85.9\n86.2\n1/ From both hydrocarbon and non-hydrocarbon sources.\n3/ Excludes investment income and corporate income tax from hydrocarbon activities.\n4/ Net of government domestic deposits.\n5/ Includes investment income and corporate income tax from hydrocarbon activities.\n2/ Accumulation of foreign assets by the government.\nSources: Ministry of Finance, and IMF staff.\nProjections",
+              "page": 41,
+              "type": "text",
+              "source": "Page 41"
+            },
+            "score": 0.7410989999771118,
+            "rank": 2
+          },
+          {
+            "chunk": {
+              "content": "QATAR \nINTERNATIONAL MONETARY FUND \n3 \nLast Article IV Consultation \nThe discussions for the previous Article IV consultation were held during November 1–14, 2023. \nThe staff report was considered by the Executive Board on January 11, 2024, and published on \nFebruary 7, 2024. \nFSAP and ROSC Participation \nFSAP missions were conducted in 2007. LEG conducted the 2007 assessment of the AML/CFT \nframework and provided comprehensive technical assistance (TA) in 2007–11. The 2023 mutual \nevaluation by the Financial Action Task Force highlighted both substantive improvements made so \nfar and areas for some major improvements going forward. LEG initiated TA to assist Qatar in \nfurther enhancing the effectiveness of the framework, focusing on strengthening risk-based \nsupervision of non-financial businesses and professions (e.g., precious metals and stones, real \nestate), making beneficial ownership information available and easily accessible, and providing \ntraining to key AML/CFT agencies. \nTechnical Assistance \nDepartment \nDate \nActivity \nSTA \nApril 2000 \nReal Sector Statistics \nSTA \nMay 2001 \nBalance of Payments Statistics \nSTA \nJanuary 2005 \nMultisector Statistics \nSTA \nApril 2006 \nGovernment Finance Statistics \nLEG \nNovember 2006 \nAML/CFT Pre-assessment \nSTA \nApril 2007 \nGDDS Assessment \nLEG \nOctober 2009 \nAML/CFT Long-Term Advisor Providing TA \nSTA \nOctober 2010 \nBalance of Payments Statistics \nSTA \nSeptember 2012 \nCoordinated Direct Investment Survey \nLEG \nMarch 2014 \n \nAML/CFT follow up \nFAD \nApril 2014 \nMacro-fiscal unit \nLEG \nNovember 2014 \nRisk-based approach to AML/CFT \nSTA \nNovember 2016 \nSDDS Assessment Mission \nSTA \nMay 2017 \n \nExternal Sector Statistics \nLEG \nJune 2017 \n \nAML/CFT Legislative Mission \nSTA \nMarch 2018 \nNational Accounts Statistics \nSTA \nMay 2019  \nE-GDDS \nSTA \nMCM \nLEG \n \nMCM \nMay 2019 \nApril 2024 \nSeptember 2024 \n \nDecember 2024 \nGovernment Finance Statistics \nLiquidity Forecasting and Management \nDiagnostic of AML/CFT TA needs \nInitiation of a 2-year TA project \nFinancial Safety Net  \nResident Representative: None",
+              "page": 74,
+              "type": "text",
+              "source": "Page 74"
+            },
+            "score": 0.7563893795013428,
+            "rank": 3
+          },
+          {
+            "chunk": {
+              "content": "QATAR \nINTERNATIONAL MONETARY FUND \n45 \n \n \n \n \n \n \n \n \n \nTable I.1. Qatar: Thematic Evolution Across NDS1, NDS2, and NDS3 \nThemes \nNDS1 (2011–2016) \nNDS2 (2018–2022) \nNDS3 (2024–2030) \nEconomic \nDiversification \n- Institutional capacity \n- Infrastructure as key \nenabler \n- Private sector involvement \n- Regulatory reform \n- Knowledge-based economy \n- High-value sectors \n- Technology and innovation \nSustainability \n- Efficient resource use \n- Sustainable infrastructure \n- Environmental sustainability \n- Biodiversity protection \n- Balancing growth and \nenvironmental goals \n- Energy consumption reforms \n- Emission reductions \n- Circular economy initiatives \nHuman Capital \nDevelopment \n- Education and labor \nmarket reforms \n- Productivity and skills \ndevelopment \n- Public sector education \nreforms \n- Reduce reliance on low-\nskilled labor \n- Training and skill \nenhancement \n- Ready for digital economy and global \ncompetition \n- Upskilling and entrepreneurship \nDriver of Growth \n- Public sector-driven \ninitiatives \n- Support national \nindustries \n \n- Economic diversification \n- Public-Private Partnerships \n(PPP) \n- Infrastructure that support \nprivate sector \n- High-value sectors \n- Business-friendly reforms \n- High-skilled labor force and \nknowledge \nInfrastructure \nDevelopment \n- Housing projects \n- Roads, ports, airport \ndevelopment \n- Public sector-led projects \n- FIFA World Cup 2022 \npreparation \n- Large-scale investments in \ntransportation \n- ICT infrastructure for \nknowledge economy \n- Renewable energy integration \n- Environmentally conscious \nconstruction \n- Sustainable, digital infrastructure for \nsmart economy \nSource: IMF staff calculations.",
+              "page": 49,
+              "type": "text",
+              "source": "Page 49"
+            },
+            "score": 0.7632688879966736,
+            "rank": 4
+          },
+          {
+            "chunk": {
+              "content": "3 \nTable 1. Qatar: Selected Macroeconomic Indicators, 2021–25",
+              "page": 4,
+              "type": "text",
+              "source": "Page 4"
+            },
+            "score": 0.7647366523742676,
+            "rank": 5
+          }
+        ]
+      },
+      "answer": {
+        "generation_time": 36.47524642944336,
+        "answer_length": 549,
+        "has_citations": true,
+        "num_citations": 3,
+        "citation_coverage": 0.6,
+        "query_term_coverage": 0.14285714285714285,
+        "answer": "A Press Release summarizing the views of the [Source: Page 41] QATAR INTERNATIONAL MONETARY FUND 37 Table 3a. Qatar: Summary of Central Government Finance, 2020–29 (Billions of Qatari Riyals unless otherwise noted) 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 Revenue 171.2 193.7 297.8 254.4 213.5 238.2 266.4 275.8 281.6 293.2 Oil 32.3 55.2 57.5 39.0 33.5 30.3 29.6 29.6 30.2 30.9 LNG 35.5 58.4 117.3 88.3 80.2 111.6 127.8 133.0 133.0 140.4 Investment income from public enterprises 1/ 65.5 42.7 73.7 73.7 75.2 55.0 51.0 55.3 56.5 57.1 58.3 Co",
+        "citations": [
+          {
+            "rank": 1,
+            "source": "Page 1",
+            "page": 1,
+            "type": "text",
+            "relevance_score": 0.648252546787262
+          },
+          {
+            "rank": 2,
+            "source": "Page 41",
+            "page": 41,
+            "type": "text",
+            "relevance_score": 0.7410989999771118
+          },
+          {
+            "rank": 3,
+            "source": "Page 74",
+            "page": 74,
+            "type": "text",
+            "relevance_score": 0.7563893795013428
+          }
+        ]
+      },
+      "total_time": 36.50564384460449,
+      "expected_modality_found": true,
+      "overall_score": 0.2706139073712485
+    },
+    {
+      "query": "Compare the fiscal indicators across different years.",
+      "test_type": "comparative",
+      "complexity": "complex",
+      "retrieval": {
+        "retrieval_time": 0.04657602310180664,
+        "num_results": 5,
+        "modality_distribution": {
+          "text": 3,
+          "table": 2,
+          "image": 0
+        },
+        "diversity_score": 0.6730116670092565,
+        "avg_relevance": 1.0337506771087646,
+        "results": [
+          {
+            "chunk": {
+              "content": "QATAR \n \nINTERNATIONAL MONETARY FUND \n15 \nBox 1. Estimating Fiscal Multipliers in Qatar and the GCC (concluded) \nBox 1. Figure 1. Growth Impact of Central Government Capital Spending 1/ \n(12-year rolling coefficient and one standard deviation plus or minus the estimate) \n \n \nSources: Haver and IMF staff. \n1/ Non-hydrocarbon output is regressed on current spending (L0 and L1), capital spending (L1 and L2), global output, \nand oil prices, all in real growth rates, on a 12-year rolling basis ending in the year indicated on the horizontal scale, \nusing annual data for Qatar spanning 1983–2023. Coefficients on the first and second lag of capital spending are \ndisplayed.  \n \n1 This box summarizes key findings of the Selected Issues Paper “Estimating Fiscal Multiplier for Qatar.” \n2  These interpretations are suggestive, as the model does not control for other potential determinants and the rolling \napproach further reduces the sample size. \n18.      Welcome efforts to strengthen fiscal institutions pave the way to adopt a full-fledged \nmedium-term fiscal framework (MTFF) with enhanced fiscal risk management:  \n• \nMTFF with strengthened budget execution and risk assessment. The extension of the \nmedium-term budget to five years and progress in introducing program-based budgeting are \nencouraging. Staff also welcomed the authorities’ initiative to enhance macroeconomic \nprojections to support the medium-term budget update. These efforts pave the way to \nintroduce a full-fledged MTFF, anchored by the PIH benchmark, to strengthen fiscal \nsustainability and ensure priority spending. The MTFF should guide and be integrated into the \nannual budget process, with performance-based allocations and strengthened budget execution \nto ensure compliance. The MTFF and annual budget should be complemented by regular fiscal \nrisk assessments, including those stemming from Public-Private Partnerships (PPPs, see below), \nand underpinned by enhanced fiscal transparency. IMF technical assistance (TA) on the MTFF \ncan support the authorities’ efforts.   \n• \nManaging fiscal risks from PPPs. Around QAR10 billion (US$2¾ billion) of PPP projects are in the \npipeline, focusing on health, education, hospitality, and infrastructure. It is critical to manage \npotential fiscal risks (including contingent liabilities) by adopting an appropriate risk-sharing and \nmonitoring framework, underpinned by transparency and strong governance. PPPs should be fully \nintegrated into the state budget and the MTFF.  \n-0.4\n-0.2\n0\n0.2\n0.4\n0.6\n95\n00\n05\n10\n15\n20\nCapital Spending, Second Lag\nEnd year of rolling sample \nEnd year of rolling sample \n-0.4\n-0.2\n0\n0.2\n0.4\n0.6\n95\n00\n05\n10\n15\n20\nCapital Spending, First Lag",
+              "page": 19,
+              "type": "text",
+              "source": "Page 19"
+            },
+            "score": 0.9483581781387329,
+            "rank": 1
+          },
+          {
+            "chunk": {
+              "content": "QATAR \nINTERNATIONAL MONETARY FUND \n59 \nFigure IV. 9. Qatar: Realism of Baseline Assumptions \n \nForecast Track Record 1/\nt+1\nt+3\nt+5\nComparator Group:\nPublic debt to GDP\nPrimary deficit\nr - g\nColor Code:\nExchange rate depreciation\n█> 75th percentile\nSFA\n█50-75th percentile\nreal-time\nt+3\nt+5\n█25-50th percentile\nHistorical Output Gap Revisions 2/\n█< 25th percentile\nPublic Debt Creating Flows\nBond Issuances (Bars, debt issuances (RHS, \n(Percent of GDP)\n%GDP); lines, avg marginal interest rates (LHS, percent))\n3-Year Debt Reduction\n3-Year Adjustment in Cyclically-Adjusted\n(Percent of GDP)\nPrimary Balance (Percent of GDP)\nFiscal Adjustment and Possible NH-Growth Paths\nOverall Real GDP Growth\n(Lines, real growth using multiplier (LHS); bars, fiscal adj. (RHS))\n(In percent)\nSource : IMF Staff.\n1/ Projections made in the October and April WEO vintage.\n3/ Data cover annual obervations from 1990 to 2019 for MAC advanced and emerging economies. Percent of sample on vertical axis.\nCommentary: The realism analysis does not point to any major concerns as the adjustment proposed by the authorities is not overly \noptimistic and in line with historical behavior.\nOptimistic\nPessimistic\nEmerging Markets,  Commodity Exporter,  \nSurveillance\n2/ Calculated as the percentile rank of the country's output gap revisions (defined as the difference between real time/period ahead estimates. \n4/ The Laubach (2009) rule is a linear rule assuming bond spreads increase by about 4 bps in response to a 1 ppt increase in the projected debt-to-\nGDP ratio.\n-2\n-1\n0\n1\n2\n3\n-6\n-3\n0\n3\n6\n9\n2019 2020 2021 2022 2023 2024 2025 2026\nFiscal Adjustment (rhs)\nBaseline\nMultiplier=0.5\nMultiplier=1\nIn percentage points of GDP\nIn percent\n0\n2\n4\n6\n8\n10\n12\n-28\n-24\n-20\n-16\n-12\n-8\n-4\n0\n4\n8\n12\n16\n20\n24\n28\nDistribution 3/\n3-year reduction\nMax. 3-year reduction\n3-year debt reduction \nabove 75th percentile \n(5.9 ppts of GDP)\npercentile rank\n75.3\n-30\n-20\n-10\n0\n10\n20\nPast 5\nyears\nPrimary deficit\nReal interest rate\nand relative inflation\nReal GDP growth\nExch. rate\ndepreciation\nResidual\nChange in public\nsector debt\n-40\n-20\n0\n20\n40\nNext 5\nyears\n0\n2\n4\n6\n-5%\n0%\n5%\n5y hist\n2024\n2025\n2026\n2027\n2028\n2029\n5+ yr term\n1-5 yr term\n<1 yr term\nSpread vs 10-yr\nUS Treas.\nImplied spread,\nLaubach rule 4/\n0\n2\n4\n6\n8\n10\n12\n-7.5\n-6.5\n-5.5\n-4.5\n-3.5\n-2.5\n-1.5\n-0.5\n0.5\n1.5\n2.5\n3.5\n4.5\n5.5\n6.5\n7.5\nDistribution 3/\n3-year adjustment\nMax. 3-year adjustment\n3-year adjustment above 75th \npercentile (2 ppts of GDP)\npercentile rank 79\n-15\n0\n15\n30\n-5\n0\n5\n10\n2013 2015 2017 2019 2021 2023 2025 2027 2029\nBaseline real growth (lhs)\nBaseline real potential growth (lhs)\n10-yr avg. real growth (lhs)\nOutput gap (rhs)",
+              "page": 63,
+              "type": "text",
+              "source": "Page 63"
+            },
+            "score": 1.0259615182876587,
+            "rank": 2
+          },
+          {
+            "chunk": {
+              "content": "QATAR \n \nINTERNATIONAL MONETARY FUND \n11 \nA.   Fiscal Policy: Enhance Resilience and Support Diversification  \n13.       The authorities plan to resume gradual fiscal consolidation from 2024. Despite a \nmoderate fiscal loosening in 2023 amid slower growth, the NHPB is estimated to remain consistent \nwith the level suggested by the Permanent \nIncome Hypothesis (PIH), a benchmark to \nensure intergenerational equity (Text \nFigure 9). 4 The 2024 budget envisages \nspending cuts worth 2 ppts of GDP from \nthe 2023 outturn, mostly in capital \nexpenditure, while the fiscal outturn up to \nthe third quarter of 2024 suggests that the \noverall expenditure cuts could be milder \nthan budgeted, closer to 1½ ppts pf GDP. \nNonetheless, the fiscal stance is still likely \nto tighten, with the NHPB projected to \nimprove by around ¾ ppt of non-\nhydrocarbon GDP. The 2025 budget \nenvisages broadly prudent spending plans \namid the growth rebound. The medium-\nterm budget has been updated to reflect \nNDS3 spending needs, where continued \ngradual consolidation is expected.  \n14.      Staff welcomed the authorities’ \ncommitment to continued fiscal \nprudence and recommended adopting a \nfiscal anchor to support the strategy. \nThe PIH-based benchmark can serve as a \nmedium-term fiscal anchor to ensure intergenerational equity. Higher-than-expected hydrocarbon \nrevenues should be saved to strengthen fiscal buffers. During economic downturns, some fiscal \nspace could be deployed to provide targeted support, while a credible plan should be in place to \nguide the NHPB to return to the PIH-based fiscal anchor (with a view to eventually introducing a \nfiscal rule). 5 The assessment of fiscal stance would be more accurate if expenditures by government \nrelated entities (GREs) are also accounted for. The PIH-based fiscal anchor should be updated \nperiodically as the global energy transition unfolds to ensure realistic long-term oil price \nassumptions. \n15.      Revenue diversification should accelerate to enhance resilience and modernize the tax \nsystem. The highly uncertain global energy transition is now compounded by rising geopolitical \n \n4 See Annex VI of the 2022 Article IV Staff Report for Qatar and Chapter II of the 2019 Selected Issues for more \ndetailed discussion of the PIH analysis.  \n5 See Chapter II of the 2019 Selected Issues for greater discussion. \nText Figure 9. Projected Non-hydrocarbon \nPrimary Deficits and PIH Benchmark 1/ \n(Percent of non-hydrocarbon GDP) \n \nSource: IMF staff calculations. \n1/ PIH benchmark is calculated to ensure constant real per-\ncapita income. Long-term parameters: Inflation and non-\nhydrocarbon real output growth = 2 percent, population \ngrowth = 0.75 percent, natural gas production volume = \nconstant after NF expansion in 2030, nominal hydrocarbon \nprice growth = 2 percent, nominal returns on QIA assets and \ndiscount rate = both 4.75 percent. Standard deviation range \nis based on historical oil price performance to capture the \nsensitivity of the PIH estimates to oil price volatility, thus \nenhancing robustness of the estimates.  \n10\n20\n30\n40\n50\n23\n24\n25\n26\n27\n28\n29\nProjected non-hydrocarbon primary deficit\nPIH benchmark central estimate and one \nstandard deviation range",
+              "page": 15,
+              "type": "text",
+              "source": "Page 15"
+            },
+            "score": 1.0526758432388306,
+            "rank": 3
+          },
+          {
+            "chunk": {
+              "content": "TABLES \n1. Selected Macroeconomic Indicators, 2020-29 _________________________________________________ 35\n2. Balance of Payments, 2020-29 _________________________________________________________________ 36\n3a. Summary of Central Government Finance, 2020-29 (Billions of Qatari Riyals) ________________ 37\n3b. Summary of Central Government Finance, 2020-29 ( Percent of GDP) _______________________ 38\n4. Monetary Survey, 2020-29 ____________________________________________________________________ 39\n5. Financial Soundness Indicators, 2017-24Q3 ___________________________________________________ 40",
+              "page": 6,
+              "type": "table",
+              "source": "Table 3 on Page 6"
+            },
+            "score": 1.058496356010437,
+            "rank": 4
+          },
+          {
+            "chunk": {
+              "content": "6.       \nThe fiscal stance loosened moderately in 2023  (Figure 4). The overall fiscal surplus \nnarrowed to 5.6 percent of GDP in 2023 and declined further in the first three quarters of 2024 as \nhydrocarbon revenues weakened. The 2023 central government spending rose by 3 percentage",
+              "page": 11,
+              "type": "table",
+              "source": "Table 2 on Page 11"
+            },
+            "score": 1.083261489868164,
+            "rank": 5
+          }
+        ]
+      },
+      "answer": {
+        "generation_time": 27.380920886993408,
+        "answer_length": 376,
+        "has_citations": true,
+        "num_citations": 3,
+        "citation_coverage": 0.6,
+        "query_term_coverage": 0.0,
+        "answer": "1/ t+1 t+3 t+5 Comparator Group: Public debt to GDP Primary deficit r - g Color Code: Exchange rate depreciation > 75th percentile SFA 50-75th percentile real-time t+3 t+5 25-50th percentile Historical Output Gap Revisions 2/  25th percentile Public Debt Creating Flows Bond Issuances (Bars, debt issuances (RHS, (Percent of GDP) %GDP); lines, avg marginal interest rates (LHS",
+        "citations": [
+          {
+            "rank": 1,
+            "source": "Page 19",
+            "page": 19,
+            "type": "text",
+            "relevance_score": 0.9483581781387329
+          },
+          {
+            "rank": 2,
+            "source": "Page 63",
+            "page": 63,
+            "type": "text",
+            "relevance_score": 1.0259615182876587
+          },
+          {
+            "rank": 3,
+            "source": "Page 15",
+            "page": 15,
+            "type": "text",
+            "relevance_score": 1.0526758432388306
+          }
+        ]
+      },
+      "total_time": 27.427496910095215,
+      "expected_modality_found": true,
+      "overall_score": 0.3183136870141886
+    },
+    {
+      "query": "What is the inflation rate and banking sector health?",
+      "test_type": "multi-part",
+      "complexity": "medium",
+      "retrieval": {
+        "retrieval_time": 0.03785991668701172,
+        "num_results": 5,
+        "modality_distribution": {
+          "text": 2,
+          "table": 3,
+          "image": 0
+        },
+        "diversity_score": 0.6730116670092565,
+        "avg_relevance": 1.0519173622131348,
+        "results": [
+          {
+            "chunk": {
+              "content": "QATAR \n6 \nINTERNATIONAL MONETARY FUND \n3.      \nInflation continued to moderate amid the growth normalization and tighter monetary \npolicy (Figure 2 and Text Figure 3). Headline inflation declined from 5 percent in 2022 to 3.0 percent \nin 2023 (period average). It decelerated further to 1.2 percent in 2024 through October as rent and \nrecreation services inflation weakened. Producer price and wage inflation remained contained.  \nText Figure 3. Indicators of Inflation \nHeadline inflation fell as housing and recreation service \ncomponents weakened… \n…while producer price and real wage inflation rates \nremain contained.  \n  \n \nSources: Haver and IMF staff calculations. \n4.      \nDomestic financial conditions tightened, while monetary policy easing started in \nSeptember 2024 (Figure 2 and Text Figure 4). The QCB continued to follow the US Federal Reserve \nin setting policy rates and improved liquidity management through calibrated T-bill issuance. As \nhydrocarbon prices moderated, the associated liquidity to the banking sector decreased. Bank \nlending to domestic private sector eased to 5 percent (year-on-year) in 2023 while credit to the \npublic sector contracted after major World Cup-related infrastructure projects were completed. \nDomestic credit accelerated in 2024 so far as private credit to services and trade strengthened, and \npositive public credit growth resumed to support investment projects. Credit to the real estate \nsector contracted (year-on-year) earlier in 2024 but grew from August.  \n5.      \nThe current account surplus narrowed mainly on lower hydrocarbon prices (Figure 3 \nand Text Figure 5). The current account surplus shrank from 27 percent of GDP in 2022 to a still \nsizeable 17 percent of GDP in 2023. The trade surplus moderated further in 2024 as hydrocarbon \nexport continued to decline. On the other hand, tourism and transportation services were buoyant, \nand remittance outflows remained stable despite a rise in expatriate employment. The QCB’s \ninternational reserves rose gradually to US$53.8 billion in November 2024, strengthening the reserve \ncoverage (projected to reach 62 percent of the ARA metric by end 2024). This is complemented by \nthe sizeable foreign assets held by Qatar Investment Authority (QIA), estimated to have exceeded \n200 percent of GDP in 2023, through which a significant share of the hydrocarbon windfalls is \ninvested abroad. The external position is assessed to be moderately stronger than the level \nsuggested by medium-term fundamentals and desirable policies (Annex II). \n-12\n-8\n-4\n0\n4\n8\n19\n20\n21\n22\n23\n24\nFood\nHousing\nTransport\nRecreation\nOther\nOverall\nInflation by Sector\n(Percentage point)\n2013-23 average\n-10\n-5\n0\n5\n10\n-120\n-60\n0\n60\n120\n19\n20\n21\n22\n23\n24\nProducer price\nReal wage (right)\nProducer Price and Real Wage Inflation\n(Percent, year on year)",
+              "page": 10,
+              "type": "text",
+              "source": "Page 10"
+            },
+            "score": 1.017818808555603,
+            "rank": 1
+          },
+          {
+            "chunk": {
+              "content": "7.       \nThe banking sector remains healthy  (Figure 5 and Text Figure 6).   Banks are well-\ncapitalized (with the Capital Adequacy Ratio of close to 20 percent in 2024Q3) and liquid, with \nrobust net interest margin (NIM) as higher funding costs were mostly passed on to borrowers. \nBanks’ non-interest income also increased, supporting profitability. The sector-wide NPL ratio \nremained broadly unchanged at 3.9 percent in 2024Q3, but bank-level NPLs varied considerably, \ntilted to the weaker side. On the other hand, NPLs are relatively well provisioned, by more than \n80 percent. Actions have also been taken to address relatively high NPLs in some banks, \nincluding through restructuring. Since the implementation of QCB measures to reduce banks’ \nnet exposure to short-term foreign liabilities,   1  banks’ non-resident deposits declined \nsignificantly in 2022 before stabilizing (as a share of total liabilities) since 2023, and other \nforeign liabilities fell only modestly. Banks’ foreign liabilities thus remained elevated, but with \nlengthened average maturity and more diversified external funding sources.",
+              "page": 12,
+              "type": "table",
+              "source": "Table 2 on Page 12"
+            },
+            "score": 1.0316424369812012,
+            "rank": 2
+          },
+          {
+            "chunk": {
+              "content": "FIGURES \n1. Real Sector Developments ____________________________________________________________________ 30\n2. Inflation and Monetary Policy Developments__________________________________________________ 31\n3. External Sector Developments _________________________________________________________________ 32\n4. Fiscal Sector Developments ___________________________________________________________________ 33\n5. Credit and Financial Sector Developments ____________________________________________________ 34",
+              "page": 6,
+              "type": "table",
+              "source": "Table 2 on Page 6"
+            },
+            "score": 1.04326331615448,
+            "rank": 3
+          },
+          {
+            "chunk": {
+              "content": "3.       \nInflation continued to moderate amid the growth normalization and tighter monetary \npolicy  (Figure 2 and Text Figure 3).   Headline inflation declined from 5 percent in 2022 to 3.0 percent \nin 2023 (period average). It decelerated further to 1.2 percent in 2024 through October as rent and \nrecreation services inflation weakened. Producer price and wage inflation remained contained.",
+              "page": 10,
+              "type": "table",
+              "source": "Table 1 on Page 10"
+            },
+            "score": 1.0811641216278076,
+            "rank": 4
+          },
+          {
+            "chunk": {
+              "content": "QATAR \nINTERNATIONAL MONETARY FUND \n31 \nFigure 2. Qatar: Inflation and Monetary Policy Developments \nPolicy rates broadly followed the US Fed, with the \nlending-deposit policy rate corridor having narrowed. \nThe domestic policy deposit rate has mostly moved less \nthan the US Fed Funds rate through the cycles.  \nAs monetary policy has tightened in real terms.... \n…disinflation in non-tradables has continued...  \n…while tradables inflation has been steady. \nMoney growth edged up as monetary policy tightening \nstopped.    \n \nSources: FocusEconomics, Haver Analytics, and IMF staff calculations. \n1/ Deflated by survey-based 12 month-ahead inflation expectations. \n0\n2\n4\n6\n8\n14\n16\n18\n20\n22\n24\nRepo\nLending\nDeposit\nUS Fed funds\nQatari and US Policy Rates\n(Percent)\n0\n25\n50\n75\n100\n14\n16\n18\n20\n22\n24\nQatari Policy Deposit Rate Spread to US Fed Funds\n(Basis point)\n-4\n0\n4\n8\n12\n21\n22\n23\n24\nBHR\nOMN\nQAT\nSAU\nNontradables Inflation\n(Percent)\n-4\n0\n4\n8\n12\n21\n22\n23\n24\nBHR\nOMN\nQAT\nSAU\nTradables Inflation\n(Percent)\n-10\n0\n10\n20\n30\n14\n16\n18\n20\n22\n24\nMoney Supply\n(Percent, year on year)\n-6\n-3\n0\n3\n6\nOMN\nBHR\nQAT\nSAU\nUAE\nKWT\nReal Policy Interest Rates 1/\n(Percent)\n+/- one standard deviation around historical \naverage (December 2014 or earliest to date)\nAugust 2024",
+              "page": 35,
+              "type": "text",
+              "source": "Page 35"
+            },
+            "score": 1.085698127746582,
+            "rank": 5
+          }
+        ]
+      },
+      "answer": {
+        "generation_time": 32.85272836685181,
+        "answer_length": 923,
+        "has_citations": true,
+        "num_citations": 3,
+        "citation_coverage": 0.6,
+        "query_term_coverage": 0.3333333333333333,
+        "answer": "Headline inflation declined from 5 percent in 2022 to 3.0 percent in 2023 (period average). It decelerated further to 1.2 percent in 2024 through October as rent and recreation services inflation weakened. Producer price and wage inflation remained contained. Text Figure 3. Indicators of Inflation Headline inflation declined from 5 percent in 2022 to 3.0 percent in 2023 (period average). It decelerated further to 1.2 percent in 2024 through October as rent and recreation services inflation weakened. Banks are well- capitalized (with the Capital Adequacy Ratio of close to 20 percent in 2024Q3) and liquid, with robust net interest margin (NIM) as higher funding costs were mostly passed on to borrowers. Banks’ non-interest income also increased, supporting profitability. The sector-wide NPL ratio remained broadly unchanged at 3.9 percent in 2024Q3, but bank-level NPLs varied considerably, tilted to the weaker sid",
+        "citations": [
+          {
+            "rank": 1,
+            "source": "Page 10",
+            "page": 10,
+            "type": "text",
+            "relevance_score": 1.017818808555603
+          },
+          {
+            "rank": 2,
+            "source": "Table 2 on Page 12",
+            "page": 12,
+            "type": "table",
+            "relevance_score": 1.0316424369812012
+          },
+          {
+            "rank": 3,
+            "source": "Table 2 on Page 6",
+            "page": 6,
+            "type": "table",
+            "relevance_score": 1.04326331615448
+          }
+        ]
+      },
+      "total_time": 32.89058828353882,
+      "expected_modality_found": true,
+      "overall_score": 0.3855253542339864
+    },
+    {
+      "query": "Summarize the key risks mentioned in the document.",
+      "test_type": "summarization",
+      "complexity": "complex",
+      "retrieval": {
+        "retrieval_time": 0.039498090744018555,
+        "num_results": 5,
+        "modality_distribution": {
+          "text": 1,
+          "table": 4,
+          "image": 0
+        },
+        "diversity_score": 0.5004024235381879,
+        "avg_relevance": 1.307836663722992,
+        "results": [
+          {
+            "chunk": {
+              "content": "1     The Risk Assessment Matrix (RAM) shows events that could materially alter the baseline path. The relative likelihood is the staff’s \nsubjective assessment of the risks surrounding the baseline (“low” is meant to indicate a probability below 10 percent, “medium” a \nprobability between 10 and 30 percent, and “high” a probability between 30 and 50 percent). The RAM reflects staff views on the \nsource of risks and overall level of concern as of the time of discussions with the authorities. Non-mutually exclusive risks may \ninteract and materialize jointly.",
+              "page": 67,
+              "type": "table",
+              "source": "Table 1 on Page 67"
+            },
+            "score": 0.9823768734931946,
+            "rank": 1
+          },
+          {
+            "chunk": {
+              "content": "2/ The comparison group is emerging markets, commodity exporter, surveillance.\n3/ The signal is low risk if the DFI is below 1.13; high risk if the DFI is above 2.08; and otherwise, it is moderate risk.\n4/ The signal is low risk if the GFI is below 7.6; high risk if the DFI is above 17.9; and otherwise, it is moderate risk.\n5/ The signal is low risk if the GFI is below 0.26; high risk if the DFI is above 0.40; and otherwise, it is moderate risk.",
+              "page": 62,
+              "type": "table",
+              "source": "Table 1 on Page 62"
+            },
+            "score": 1.2293803691864014,
+            "rank": 2
+          },
+          {
+            "chunk": {
+              "content": "1.      \nTA \n2.      \n \n  \n \nQATAR \nSTAFF REPORT FOR THE 2024 ARTICLE IV CONSULTATION—\nINFORMATIONAL ANNEX \n \nPrepared By \n \nMiddle East and Central Asia Department \n(in consultation with other departments) \n \n \n \nRELATIONS WITH THE FUND _________________________________________________________ 2 \nRELATIONS WITH THE WORLD BANK GROUP _______________________________________ 4 \n \n \n \n \n \nCONTENTS \nJanuary 8, 2024",
+              "page": 72,
+              "type": "text",
+              "source": "Page 72"
+            },
+            "score": 1.4266705513000488,
+            "rank": 3
+          },
+          {
+            "chunk": {
+              "content": "The discussions for the previous Article IV consultation were held during November 1–14, 2023. \nThe staff report was considered by the Executive Board on January 11, 2024, and published on \nFebruary 7, 2024.",
+              "page": 74,
+              "type": "table",
+              "source": "Table 1 on Page 74"
+            },
+            "score": 1.446574091911316,
+            "rank": 4
+          },
+          {
+            "chunk": {
+              "content": "2 The ARA is a composite metric that measures the adequacy of precautionary reserves. It is based on the relative risk weights \nfor each source of foreign exchange drain drawing on the 10th percentile of observed outflows from emerging market \neconomies during exchange market pressure episodes. Reserves in the range of 100–150 percent of the composite metric \nare considered broadly adequate for precautionary purposes.",
+              "page": 52,
+              "type": "table",
+              "source": "Table 3 on Page 52"
+            },
+            "score": 1.454181432723999,
+            "rank": 5
+          }
+        ]
+      },
+      "answer": {
+        "generation_time": 5.42116641998291,
+        "answer_length": 120,
+        "has_citations": true,
+        "num_citations": 3,
+        "citation_coverage": 0.6,
+        "query_term_coverage": 0.14285714285714285,
+        "answer": "The signal is low risk if the GFI is below 1.13; high risk if the DFI is above 2.08; and otherwise, it is moderate risk.",
+        "citations": [
+          {
+            "rank": 1,
+            "source": "Table 1 on Page 67",
+            "page": 67,
+            "type": "table",
+            "relevance_score": 0.9823768734931946
+          },
+          {
+            "rank": 2,
+            "source": "Table 1 on Page 62",
+            "page": 62,
+            "type": "table",
+            "relevance_score": 1.2293803691864014
+          },
+          {
+            "rank": 3,
+            "source": "Page 72",
+            "page": 72,
+            "type": "text",
+            "relevance_score": 1.4266705513000488
+          }
+        ]
+      },
+      "total_time": 5.460664510726929,
+      "expected_modality_found": true,
+      "overall_score": 0.33784677083693715
+    },
+    {
+      "query": "What information is provided about the non-hydrocarbon sector?",
+      "test_type": "factual",
+      "complexity": "medium",
+      "retrieval": {
+        "retrieval_time": 0.039243459701538086,
+        "num_results": 5,
+        "modality_distribution": {
+          "text": 0,
+          "table": 5,
+          "image": 0
+        },
+        "diversity_score": -0.0,
+        "avg_relevance": 1.0158511638641357,
+        "results": [
+          {
+            "chunk": {
+              "content": "3/ Excludes investment income and corporate income tax from hydrocarbon activities.\n4/ Net of government domestic deposits.\n5/ Includes investment income and corporate income tax from hydrocarbon activities.",
+              "page": 41,
+              "type": "table",
+              "source": "Table 1 on Page 41"
+            },
+            "score": 0.943500816822052,
+            "rank": 1
+          },
+          {
+            "chunk": {
+              "content": "3/ Excludes investment income and corporate income tax from hydrocarbon activities.\n4/ Net of government domestic deposits.\n5/ Includes investment income and corporate income tax from hydrocarbon activities.",
+              "page": 42,
+              "type": "table",
+              "source": "Table 1 on Page 42"
+            },
+            "score": 0.943500816822052,
+            "rank": 2
+          },
+          {
+            "chunk": {
+              "content": "the upside, sustained high hydrocarbon prices and accelerated NDS3 reforms would strengthen the \noutlook. However, if ambitious NDS3 initiatives lead to resource misallocation, both the public \nfinance and growth prospect would be affected.",
+              "page": 14,
+              "type": "table",
+              "source": "Table 1 on Page 14"
+            },
+            "score": 1.0295604467391968,
+            "rank": 3
+          },
+          {
+            "chunk": {
+              "content": "Sources: Haver and IMF staff. \n1/ Non-hydrocarbon output is regressed on current spending (L0 and L1), capital spending (L1 and L2), global output, \nand oil prices, all in real growth rates, on a 12-year rolling basis ending in the year indicated on the horizontal scale, \nusing annual data for Qatar spanning 1983–2023. Coefficients on the first and second lag of capital spending are \ndisplayed.",
+              "page": 19,
+              "type": "table",
+              "source": "Table 1 on Page 19"
+            },
+            "score": 1.0509166717529297,
+            "rank": 4
+          },
+          {
+            "chunk": {
+              "content": "ANNEXES \nI. Overview of Qatar’s Third National Development Strategy  _____________________________________ 42\nII. External Sector Assessment  ___________________________________________________________________ 46\nIII. Nowcasting of Real Non-hydrocarbon GDP Growth in Qatar  _________________________________ 49\nIV. Fiscal and Debt Sustainability Assessment  ____________________________________________________ 54\nV. Risk Assessment Matrix _______________________________________________________________________ 63\nVI. Implementation of the 2023 Article IV Recommendations ____________________________________ 65\nVII. Data Issues ___________________________________________________________________________________ 66",
+              "page": 7,
+              "type": "table",
+              "source": "Table 1 on Page 7"
+            },
+            "score": 1.1117770671844482,
+            "rank": 5
+          }
+        ]
+      },
+      "answer": {
+        "generation_time": 64.27461862564087,
+        "answer_length": 2132,
+        "has_citations": true,
+        "num_citations": 3,
+        "citation_coverage": 0.6,
+        "query_term_coverage": 0.0,
+        "answer": "[Source: Table 1 on Page 14] 3/ Excludes investment income and corporate income tax from hydrocarbon activities. 4/ Net of government domestic deposits. 5/ Includes investment income and corporate income tax from hydrocarbon activities. [Source: Table 1 on Page 14] 3/ Excludes investment income and corporate income tax from hydrocarbon activities. 4/ Net of government domestic deposits. 5/ Includes investment income and corporate income tax from hydrocarbon activities. [Source: Table 1 on Page 14] 3/ Excludes investment income and corporate income tax from hydrocarbon activities. 4/ Net of government domestic deposits. 5/ Includes investment income and corporate income tax from hydrocarbon activities. [Source: Table 1 on Page 14] 3/ Excludes investment income and corporate income tax from hydrocarbon activities. 4/ Net of government domestic deposits. 5/ Includes investment income and corporate income tax from hydrocarbon activities. [Source: Table 1 on Page 14] 3/ Excludes investment income and corporate income tax from hydrocarbon activities. 4/ Net of government domestic deposits. 5/ Includes investment income and corporate income tax from hydrocarbon activities. [Source: Table 1 on Page 14] 3/ Excludes investment income and corporate income tax from hydrocarbon activities. 4/ Net of government domestic deposits. 5/ Includes investment income and corporate income tax from hydrocarbon activities. [Source: Table 1 on Page 14] 3/ Excludes investment income and corporate income tax from hydrocarbon activities. 4/ Net of government domestic deposits. 5/ Includes investment income and corporate income tax from hydrocarbon activities. [Source: Table 1 on Page 14] 3/ Excludes investment income and corporate income tax from hydrocarbon activities. 4/ Net of government domestic deposits. 5/ Includes investment income and corporate income tax from hydrocarbon activities. [Source: Table 1 on Page 14] 3/ Excludes investment income and corporate income tax from hydrocarbon activities. 4/ Net of government domestic deposits. 5/ Includes investment income and corporate income tax from hydrocarbon activities.",
+        "citations": [
+          {
+            "rank": 1,
+            "source": "Table 1 on Page 41",
+            "page": 41,
+            "type": "table",
+            "relevance_score": 0.943500816822052
+          },
+          {
+            "rank": 2,
+            "source": "Table 1 on Page 42",
+            "page": 42,
+            "type": "table",
+            "relevance_score": 0.943500816822052
+          },
+          {
+            "rank": 3,
+            "source": "Table 1 on Page 14",
+            "page": 14,
+            "type": "table",
+            "relevance_score": 1.0295604467391968
+          }
+        ]
+      },
+      "total_time": 64.31386208534241,
+      "expected_modality_found": false,
+      "overall_score": 0.20047553491592407
+    }
+  ]
+}
